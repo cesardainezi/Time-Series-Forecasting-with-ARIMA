@@ -12,10 +12,10 @@ This project demonstrates how to apply an ARIMA model to predict stock prices us
 
 The project includes:
 - Importing and visualizing historical stock data
-- Stationarity checks and transformations
 - ARIMA model fitting and evaluation
 - Grid search for optimal (p,d,q) parameters
 - Model performance metrics (MSE, MAE)
+- Prediction and comparison with actual data within the test period
 - Discussion of limitations and possible next steps
 
 ---
