@@ -3,8 +3,8 @@
 This project demonstrates how to apply an ARIMA model to predict stock prices using historical data. It focuses on the stock prices of **Apple Inc. (AAPL)** and walks through the process of cleaning the data, selecting model parameters, evaluating performance, and discussing possible improvements.
 
 > 🔗 Notebooks are available in both English and Portuguese:
-> - [🇺🇸 Time Series Forecasting (EN-US).ipynb](./Time%20Series%20Forecasting%20(EN-US).ipynb)
-> - [🇧🇷 Time Series Forecasting (PT-BR).ipynb](./Time%20Series%20Forecasting%20(PT-BR).ipynb)
+> - [🇺🇸 Time Series Forecasting EN-US.ipynb](./Time%20Series%20Forecasting%20EN-US.ipynb)
+> - [🇧🇷 Time Series Forecasting PT-BR.ipynb](./Time%20Series%20Forecasting%20PT-BR.ipynb)
 
 ---
 
